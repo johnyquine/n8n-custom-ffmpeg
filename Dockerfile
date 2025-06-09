@@ -1,5 +1,5 @@
 # Começa com a imagem oficial do n8n para modo fila
-FROM n8nio/n8n:1.45.1-queue
+FROM n8nio/n8n:1.45.1
 
 # Muda para o usuário root para poder instalar pacotes
 USER root
